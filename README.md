@@ -1,6 +1,6 @@
-# Restaurant Management System (RMS) using C# - Project Proposal
+# Restaurant Management System (RMS) using .Net framework
 
-In today's competitive restaurant industry, efficient management is paramount to success. A Restaurant Management System (RMS) can streamline operations, enhance customer experience, and boost overall profitability. This proposal outlines the development of an RMS using the C# programming language to meet the specific needs of restaurants.
+In today's competitive restaurant industry, efficient management is paramount to success. A Restaurant Management System (RMS) can streamline operations, enhance customer experience, and boost overall profitability.
 
 ## Project Overview
 
