@@ -1,0 +1,10 @@
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\bin\Debug\RMS.exe.config
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\bin\Debug\RMS.exe
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\bin\Debug\RMS.pdb
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\obj\Debug\RMS.csproj.AssemblyReference.cache
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\obj\Debug\RMS.csproj.SuggestedBindingRedirects.cache
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\obj\Debug\RMS.Properties.Resources.resources
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\obj\Debug\RMS.csproj.GenerateResource.cache
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\obj\Debug\RMS.csproj.CoreCompileInputs.cache
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\obj\Debug\RMS.exe
+C:\Users\zeina\Source\Repos\restaurant-management-system\RMS\obj\Debug\RMS.pdb

@@ -1,7 +1,9 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\RMS",
+    "\\RMS\\Properties"
   ],
-  "SelectedNode": "\\C:\\Users\\zeina\\Source\\Repos\\restaurant-management-system",
+  "SelectedNode": "\\RMS\\Properties\\Resources.Designer.cs",
   "PreviewInSolutionExplorer": false
 }
