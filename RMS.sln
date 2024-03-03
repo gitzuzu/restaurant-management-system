@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RMS", "RMS\RMS.csproj", "{29DE4117-FDB8-4D3F-91DA-9667E089C6EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{29DE4117-FDB8-4D3F-91DA-9667E089C6EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{29DE4117-FDB8-4D3F-91DA-9667E089C6EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{29DE4117-FDB8-4D3F-91DA-9667E089C6EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{29DE4117-FDB8-4D3F-91DA-9667E089C6EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {226268FE-4EDB-4022-9215-ACF3BF47C9AC}
+	EndGlobalSection
+EndGlobal
